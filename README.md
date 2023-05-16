@@ -1,2 +1,0 @@
-# MailServer
-Servidor de correo
